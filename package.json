@@ -1,0 +1,11 @@
+{
+  "name": "electron-experiment",
+  "description": "Experimenting with exporting executables using electron.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^5.0.6"
+  }
+}
